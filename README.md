@@ -1,6 +1,6 @@
 # LINKX PaddlePaddle Implementation
 
-This repository contains the PaddlePaddle implementation of LINKX (Large Scale Learning on Non-Homophilous Graphs, NeurIPS 2022).
+This repository contains the PaddlePaddle implementation of LINKX (Large Scale Learning on Non-Homophilous Graphs, NeurIPS 2021).
 
 ## Environment Requirements
 
